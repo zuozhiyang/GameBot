@@ -1,5 +1,5 @@
 const pusher = new Pusher('866c081af547f16b0046', {
-    cluster: 'us2`',
+    cluster: 'us2',
     encrypted: true
 });
 
