@@ -16,12 +16,12 @@ body,html {
 }
 
 .bot-message {
-    background: green;
+    background: mediumpurple;
     color: white;
 }
 
 .human-message {
-    background: dodgerblue;
+    background: yellowgreen;
     color: white;
     margin: 13px 1px;
 }
@@ -30,7 +30,7 @@ body,html {
   width: 100%;
   margin: 35px 0px;
   height: 60px;
-  border: 1px solid rosybrown;
+  border: 1px darkgray;
   border-radius: 3px;
 }
 
