@@ -6,4 +6,4 @@ Moreover, the bot utilizes Push Channels to enable the feature that that anybody
 
 
 
-![arch][Architecture.png]
+![arch][https://github.com/zuozhiyang/GameBot/blob/master/Architecture.png]
