@@ -39,3 +39,6 @@ Moreover, the bot utilizes Push Channels to enable the feature that that anybody
 
 ## Diagram
 ![arch](https://github.com/zuozhiyang/GameBot/blob/master/Architecture.png)
+
+Video is [here](https://www.dropbox.com/s/qz7z37rzwsefpsh/gamebot.mp4?dl=0).
+
