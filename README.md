@@ -1,7 +1,7 @@
 # Gamebot
 
 ## Description
-A simple web conversation bot where users can ask about video games and returns summary of the games asked. It is built using Flask, Dialogflow, IGDB api, and etc.
+A simple **cloud-based** conversation bot where users can ask about video games and returns summary of the games asked. It is built using Flask, Dialogflow, IGDB api, and etc.
 Moreover, the bot utilizes Push Channels to enable the feature that that anybody viewing the bot page will see in realtime conversations going on. 
 
 ## Framework and Tools
@@ -11,12 +11,12 @@ Moreover, the bot utilizes Push Channels to enable the feature that that anybody
 * CSS
 
 ### Backend:
-* Flask/Python
-* Pusher
+* Flask/Python: to connect cloud service and frontend
+* Pusher: to enable real time features
 
 
 ## External APIs:
-* DialogueFlow: Natural Language Processing API (I trained a NLP agent specifically for this project thus it can only but well indentify titles of video games.)
+* DialogueFlow: Natural Language Processing cloud service (I customized a NLP agent this project, thus it can only but well indentify titles of video games.)
 * IGDB: RESTful API Database fo Video Game Information 
 
 
