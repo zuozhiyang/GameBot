@@ -16,7 +16,7 @@ Moreover, the bot utilizes Push Channels to enable the feature that that anybody
 
 
 ## External APIs:
-* DialogueFlow: Natural Language Processing API
+* DialogueFlow: Natural Language Processing API (I trained a NLP agent specifically for this project thus it can only but well indentify titles of video games.)
 * IGDB: RESTful API Database fo Video Game Information 
 
 
